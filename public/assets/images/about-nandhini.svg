@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" width="600" height="700">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3d162d" />
+      <stop offset="100%" stop-color="#5d2345" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c48739" />
+      <stop offset="100%" stop-color="#e2ab5b" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="700" fill="url(#bg)" />
+  <circle cx="300" cy="320" r="132" fill="none" stroke="url(#accent)" stroke-width="3" stroke-dasharray="8 6" opacity="0.6"/>
+  <circle cx="300" cy="320" r="96" fill="#3d162d" opacity="0.8"/>
+  <text x="300" y="330" font-family="Georgia, serif" font-size="54" font-weight="bold" fill="#ffffff" text-anchor="middle">RN</text>
+  <rect x="60" y="605" width="480" height="70" rx="12" fill="rgba(255,255,255,0.95)" />
+  <text x="300" y="638" font-family="Georgia, serif" font-size="27" font-weight="bold" fill="#320e23" text-anchor="middle">Nandhini Coaching</text>
+  <text x="300" y="660" font-family="'Segoe UI', Roboto, sans-serif" font-size="16.8" font-weight="600" fill="#c48739" text-anchor="middle" letter-spacing="1.5">EMPOWERING PERSONAL TRANSFORMATION</text>
+</svg>

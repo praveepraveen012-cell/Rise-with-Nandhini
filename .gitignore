@@ -10,6 +10,7 @@ coverage/
 dist/
 dist-ssr/
 *.local
+*.zip
 
 # Environment variables
 .env
