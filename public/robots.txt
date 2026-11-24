@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /send_mail.php
+Disallow: /.htaccess
+
+Sitemap: https://risewithnandhini.com/sitemap.xml
